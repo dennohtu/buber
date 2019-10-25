@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Buber Rider</string>
+    <string name="btn_signin">SIGN IN</string>
+    <string name="btn_signup">SIGN UP</string>
+    <string name="intro_app_name">B U B E R</string>
+    <string name="designation">R I D E R</string>
+    <string name="bottom_text">Looking for the driver app?</string>
+    <string name="title_activity_home">HomeActivity</string>
+    <string name="driver_descriptor">You</string>
+</resources>
